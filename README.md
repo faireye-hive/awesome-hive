@@ -49,6 +49,10 @@ Hive node implementation.
 - [HiveBlocks](https://hiveblocks.com)
 - [Hive-DB](https://hive-db.com)
 - [HIVE Block Explorer](https://hiveblockexplorer.com/)
+- [Ausbit Dev](https://hive.ausbit.dev/)
+- [Hive Scan](https://hivescan.info/)
+- [Hive Hub](https://hivehub.dev)
+- [Hive Tasks](https://hivetasks.com/)
 
 ## Documentation
 - [Hive Developer Portal](https://developers.hive.io)
@@ -80,14 +84,24 @@ Hive node implementation.
 - JavaScript
   - [hive-js](https://www.npmjs.com/package/@hiveio/hive-js) - JavaScript library for Hive blockchain.
   - [dhive](https://www.npmjs.com/package/@hiveio/dhive) - JavaScript library for Hive blockchain in Typescript.
+  - [hive-tx](https://github.com/mahdiyari/hive-tx-js)
 - Python
   - [hive-python](https://gitlab.syncad.com/hive/hive-python) - Python (3) library for the Hive Blockchain.
   - [beem](https://github.com/holgern/beem) - A comprehensive Python library to interact with the Hive blockchain.
   - [lighthive](https://github.com/emre/lighthive) - A light Python client to interact with the Hive Blockchain.
+  - [hive-nectar](https://github.com/TheCrazyGM/hive-nectar) - nectar is a python library for HIVE, which is created from the remains of beem 
+  - [wax](https://gitlab.syncad.com/hive/wax/) - https://gitlab.syncad.com/hive/wax/
 - Ruby
   - [hive-ruby](https://gitlab.syncad.com/hive/hive-ruby) - Ruby library for the Hive blockchain.
 - Java
   - [HiveJ](https://github.com/OperationCrypto/hivej)
+- PHP
+  - [hive-php-lib](https://gitlab.syncad.com/hive/hive-php-lib) - This library offers your a set of PHP functions to interact with HIVE blockchain & Hive Engine sidechain.
+- TypeScript
+  - [Aioha ](https://github.com/aioha-hive/aioha) - All-In-One Hive Authentication API, and operations easy with Keychain, HiveAuth, HiveSigner, Ledger, Peak Vault, MetaMask, Snap.
+  - [WorkerBee](https://gitlab.syncad.com/hive/workerbee) - based on wax, provides a simple yet powerful interface to interact with the Hive blockchain, allowing you to build sophisticated bots and automation scripts with ease.
+  - [keychain-sdk](https://github.com/hive-keychain/keychain-sdk) - The purpose is to allow developers to integrate Keychain in a seemless manner.
+
 
 ## Tutorials
 
